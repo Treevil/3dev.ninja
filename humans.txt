@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Trevor Devalle: Web Devloper
+    twitter: 3evil
+    From: Turin, Italy
+
+# Site
+	Last update: 1-1-2016
+	Language: Us-En
+	Doctype: HTML5
+    Technologies: HTML5, CSS3, jQuery, Modernizr
+    IDE: Sublime Text
